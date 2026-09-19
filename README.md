@@ -1,21 +1,23 @@
 # Netflix Excel Dashboard 📊
 
-An interactive Netflix data analysis dashboard created using Microsoft Excel.
+An interactive Netflix data analysis dashboard created using Microsoft Excel to explore content types, ratings, countries, and release-year trends.
 
 ## 📌 Project Overview
 
-This project analyzes Netflix content to identify patterns and trends across content types, ratings, countries, and release years.
+This project analyzes a Netflix titles dataset to identify patterns and trends across movies and TV shows.
+
+The dashboard uses Excel Pivot Tables, Pivot Charts, and Slicers to make the analysis interactive and easy to explore.
 
 ## 📊 Dashboard Features
 
 - Total number of Netflix titles
 - Movies vs TV Shows distribution
 - Titles by rating
-- Content creation by country
+- Titles by country
 - Year-wise content releases
 - Interactive Movie / TV Show filter
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Techniques Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -27,11 +29,11 @@ This project analyzes Netflix content to identify patterns and trends across con
 
 - The dataset contains **8,790 Netflix titles**.
 - Movies account for approximately **70%** of the titles.
-- TV Shows account for approximately **30%**.
+- TV Shows account for approximately **30%** of the titles.
 - **United Kingdom** has the highest content count in the analyzed country data.
-- **2018** has the highest number of content releases in the analyzed data.
+- **2018** recorded the highest number of content releases in the analyzed data.
 
-## 🎯 Learning Outcome
+## 🎯 Learning Outcomes
 
 Through this project, I practiced:
 
@@ -39,15 +41,19 @@ Through this project, I practiced:
 - Data visualization
 - Excel dashboard creation
 - Pivot Tables and Pivot Charts
-- Interactive filtering
+- Interactive filtering using Slicers
 - Presenting data-driven insights
 
 ## 📷 Dashboard Preview
 
-The dashboard provides an interactive view of Netflix content and allows users to explore the data using the Movie / TV Show filter.
+![Netflix Excel Dashboard](Netflix_dashboard_preview.png)
 
----
+## 📁 Project Files
 
-### 👨‍💻 Project
+- `netflixexceldashboard.xlsx` — Excel dashboard
+- `Netflix_dashboard_preview.png` — Dashboard preview
+- `netflix_dashboard_demo.mp4` — Dashboard demonstration
 
-Created as part of my journey in **Data Analytics and MCA**.
+## 👨‍💻 About the Project
+
+Created as part of my **MCA and Data Analytics learning journey**.
